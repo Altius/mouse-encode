@@ -1,1 +1,2 @@
-Folder with metadata files for mouse encode manuscript
+Folder for metadata files related to mouse encode manuscript
+
