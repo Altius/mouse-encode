@@ -10,6 +10,7 @@ global_motif_densities.py - script to identify TF motif densities in DHS peaks f
 cDHS_accessibility.py - script to identify DNaseI cleavage density in DHSs around gene TSS for each mouse DNaseI sample
 cell_data.py - script to identify DNaseI cleavage density int DHSs for each mouse DNaseI sample
 merge_hindbrain.py - script to identify replicate peaks in technical replicates of hindbrain samples
+tc_anova.py - script to identify variable DHSs in mouse fetal brain samples
 
 kmeans - scripts for running kmeans clusterin on DNaseI index data
 lims - scripts for extracting DnaseI experiment metadata from the Altius Institute's Lab Information Management System API
